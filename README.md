@@ -4,10 +4,7 @@ I'm Cihan from turkey and I'm improving myself as Full-Stack developer on dotnet
 
 Skills: HTML / CSS / JS / JQUERY / TYPESCRIPT / ANGULAR / C# / MVC / RAZOR / API / MSSQL SERVER
 
-- 🔭 I’m currently working on 
--  https://github.com/cihankyn/CSharp-Algorithm-And-Data-Types  
--  https://github.com/cihankyn/HackerRank   
--  https://github.com/cihankyn/javascript-homework 
+- 🔭 I’m currently working on https://github.com/cihankyn/CSharp-Algorithm-And-Data-Types  https://github.com/cihankyn/HackerRank  https://github.com/cihankyn/javascript-homework 
 - 🌱 I’m currently learning Docker, Kubernetes, Azure Cloud , Azure DevOps and CI/CD  
 - 📫 How to reach me: chnkyn01@gmail.com 
 
